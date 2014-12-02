@@ -1,0 +1,11 @@
+#VirtualEnv
+bin/
+lib/
+lib64
+include/
+# VI swap files
+*.swp
+*.pyc
+# To not sure my kets
+secret.py
+access.json
